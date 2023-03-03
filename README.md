@@ -14,8 +14,8 @@
    <br><br>
    <h2 align="center"> <pre>🅰🅱🅾🆄🆃 🅼🅴 </pre></h2>
   <div align="center">
-<img src="https://pcbwayfile.s3.us-west-2.amazonaws.com/web/22/05/16/2115030697043t.gif" align="left" style="width:240px">
-<img src="https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif" align="right" style="width:240px">
+<img src="https://pcbwayfile.s3.us-west-2.amazonaws.com/web/22/05/16/2115030697043t.gif" align="left" style="width:220px">
+<img src="https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif" align="right" style="width:220px">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 <h4>
  🅻🅾🆅🅴 My pets, playing PS, Marvel.<br> 🅷🅾🅱🅱🅸🅴🆂 Tennis, chess, drawing, reading comics. <br>🆂🅿🅴🅰🅺 English, Japanese and Armenian. </h4>  
