@@ -1,7 +1,7 @@
 <h1 align="center">
 🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳! 👋  </h1>
  <div align="center">
-<h3>I'm QA Software Engineer with 9+ years of experience in QA Automation and Manual Testing </h3>
+<h3>I'm QA Software Engineer with experience in QA Automation and Manual Testing </h3>
   </div><br>
   <div align="center">
   <img src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif"style="width:700px">
