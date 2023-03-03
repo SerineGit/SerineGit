@@ -18,8 +18,7 @@
 <img src="https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif" align="right" style="width:220px">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 <h4> 🅻🅾🆅🅴 My pets, playing PS, Marvel.<br> 🅷🅾🅱🅱🅸🅴🆂 Tennis, chess, drawing, reading comics. <br>🆂🅿🅴🅰🅺 English, Japanese and Armenian. </h4>  
- <a href="https://www.linkedin.com/in/serinestark/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+🅵🅸🅽🅳 🅼🅴 🅾🅽  <a href="https://www.linkedin.com/in/serinestark/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
  </div>
 <br><br>
