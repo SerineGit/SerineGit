@@ -27,5 +27,5 @@
   
  <h2 align="center"> <pre>🅹🆄🆂🆃 🅵🅾🆁 🅵🆄🅽</pre></h2>
   <div align="center">
-  <img src="https://media.tenor.com/3-v67kKuolwAAAAM/tester.gif" style="width:200px">  <img src="https://www.cryan.com/qa/graphics/QARiver.gif" style="width:250px">  <img src="https://miro.medium.com/max/1000/1*hyqJzpqML8_OsEir6KCahw.gif" style="width:200px">  <img src="https://media.tenor.com/S-CxC0jhfrMAAAAd/qa.gif" style="width:250px">
+  <img src="https://media.tenor.com/3-v67kKuolwAAAAM/tester.gif" style="width:210px">  <img src="https://www.cryan.com/qa/graphics/QARiver.gif" style="width:250px">  <img src="https://miro.medium.com/max/1000/1*hyqJzpqML8_OsEir6KCahw.gif" style="width:200px">  <img src="https://media.tenor.com/S-CxC0jhfrMAAAAd/qa.gif" style="width:250px">
   </div>
