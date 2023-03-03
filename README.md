@@ -17,7 +17,7 @@
 <img src="https://pcbwayfile.s3.us-west-2.amazonaws.com/web/22/05/16/2115030697043t.gif" align="left" style="width:240px">
 <img src="https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif" align="right" style="width:240px">
 <pre><h4>
- 🅻🅾🆅🅴 My pets and to Play PS.<br> 🅷🅾🅱🅱🅸🅴🆂 Tennis, chess, drawing, reading. <br>🆂🅿🅴🅰🅺 English, Japanese and Armenian. </h4>  </pre>
+ 🅻🅾🆅🅴 My pets, playing PS, Marvel.<br> 🅷🅾🅱🅱🅸🅴🆂 Tennis, chess, drawing, reading comics. <br>🆂🅿🅴🅰🅺 English, Japanese and Armenian. </h4>  </pre>
  <a href="https://www.linkedin.com/in/serinestark/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
