@@ -4,7 +4,7 @@
 <h3>I'm C++ Developer | QA Engineer | Manual & Automated Testing</h3>
   </div><br>
   <div align="center">
-  <img src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif"style="width:700px">
+  <img src="https://forumupload.ru/uploads/0010/23/21/105/399001.png"style="width:700px">
     </div>
 <br>
 <h2 align="center"> <pre>⚙️🆃🅾🅾🅻🆂 🅰🅽🅳 🅻🅰🅽🅶🆄🅰🅶🅴🆂</pre></h2>
