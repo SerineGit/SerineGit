@@ -25,6 +25,7 @@
  <a href="https://www.linkedin.com/in/serinestark/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
  </div>
-<br><br>
-  
+<br><br><br><br>
+  <h2 align="center"> <pre> 🅹🆄🆂🆃 🅵🅾🆁 🅵🆄🅽 🎉</pre></h2>
+<img src="https://media.tenor.com/S-CxC0jhfrMAAAAM/qa.gif" width="100">  <img src="https://media.tenor.com/a-TsAtfszc8AAAAM/homer-any.gif" width="100"> <img src="https://www.cryan.com/qa/graphics/QARiver.gif" width="100">
 
