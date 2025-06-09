@@ -1,7 +1,7 @@
 <h1 align="center">
 🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳! 👋  </h1>
  <div align="center">
-<h3>I'm C++ Developer | QA Engineer | Manual & Automated Testing</h3>
+<h3>🧪 QA by Day | 💻 C++ by Heart | ✅ Manual + ⚙️ Automated | 💥 Code. 🔧 Break. 🛠️ Fix. 🔁 Repeat.</h3>
   </div><br>
   <div align="center">
   <img src="https://forumupload.ru/uploads/0010/23/21/105/399001.png"style="width:900px">
