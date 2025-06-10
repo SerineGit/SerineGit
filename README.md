@@ -17,10 +17,8 @@
 </details>
    
    </div>
-   <br><br>
-    <div align="center">
-  <img src="https://backiee.com/static/wallpapers/1000x563/396529.jpg" height: 300px">
-    </div>
+
+
    <h2 align="center"> <pre>🅰🅱🅾🆄🆃 🅼🅴 </pre></h2>
   <div align="center">
 <img src="https://pcbwayfile.s3.us-west-2.amazonaws.com/web/22/05/16/2115030697043t.gif" align="left" style="width:220px">
@@ -34,5 +32,5 @@
 <br><br><br><br>
   <h2 align="center"> <pre> 🅹🆄🆂🆃 🅵🅾🆁 🅵🆄🅽 🎉</pre></h2>
  <div align="center">
-<img src="https://media.tenor.com/S-CxC0jhfrMAAAAM/qa.gif" width="220px"> <img src="https://media.tenor.com/a-TsAtfszc8AAAAM/homer-any.gif" width="200px"> <img src="https://www.cryan.com/qa/graphics/QARiver.gif" width="220px"></div>
+<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fs28zf8y4pea91.gif" width="200px"> <img src="https://media.tenor.com/S-CxC0jhfrMAAAAM/qa.gif" width="220px"> <img src="https://media.tenor.com/a-TsAtfszc8AAAAM/homer-any.gif" width="200px"> <img src="https://www.cryan.com/qa/graphics/QARiver.gif" width="220px"></div>
 
