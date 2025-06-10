@@ -28,5 +28,5 @@
 <br>
   <h2 align="center"> <pre> 🅹🆄🆂🆃 🅵🅾🆁 🅵🆄🅽 🎉</pre></h2>
  <div align="center">
-<img src="https://i.ibb.co/0jKvgckV/s28zf8y4pea91.gif" width="200px"> <img src="https://media.tenor.com/S-CxC0jhfrMAAAAM/qa.gif" width="220px"> <img src="https://media.tenor.com/a-TsAtfszc8AAAAM/homer-any.gif" width="200px"> <img src="https://www.cryan.com/qa/graphics/QARiver.gif" width="220px"></div>
+<img src="https://i.ibb.co/0jKvgckV/s28zf8y4pea91.gif" width="200px"> <img src="https://media.tenor.com/a-TsAtfszc8AAAAM/homer-any.gif" width="200px"> <img src="https://www.cryan.com/qa/graphics/QARiver.gif" width="220px"></div>
 
