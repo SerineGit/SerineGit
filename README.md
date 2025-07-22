@@ -22,7 +22,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 <h4> 🅻🅾🆅🅴 My pets, playing PS, Marvel.<br> 🅷🅾🅱🅱🅸🅴🆂 Tennis, chess, drawing, reading comics. <br>🆂🅿🅴🅰🅺 English, Japanese and Armenian. <br><br>
  🅵🅸🅽🅳 🅼🅴 🅾🅽 </h4>  
- <a href="https://www.linkedin.com/in/serinestark/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ <a href="https://www.linkedin.com/in/serinezargaryan/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
  </div>
 <br>
