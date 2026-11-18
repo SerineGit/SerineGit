@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF9C&height=170&section=header&text=WAKE%20UP,%20SERINE...&fontSize=44&fontColor=00FF9C&animation=twinkling&fontAlignY=45&desc=Coding%20my%20way%20out%20of%20the%20matrix&descSize=18&descAlignY=68&descColor=C9D1D9" width="100%"/>
 
 <a href="https://github.com/SerineGit">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=00FF9C&background=0D111700&center=true&vCenter=true&width=680&height=40&lines=%3E+whoami;%3E+Serine+Zargaryan+—+QA+Engineer+🧪;%3E+C%2B%2B+by+heart+💻;%3E+bugs+found%3A+∞;%3E+exit+code%3A+never+🔁" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=700&color=00FF9C&center=true&vCenter=true&width=680&height=45&repeat=true&lines=%3E+whoami;%3E+Serine+Zargaryan+-+QA+Engineer;%3E+C%2B%2B+by+heart;%3E+bugs+found%3A+infinity;%3E+exit+code%3A+never" alt="typing" />
 </a>
 
 <br><br>
